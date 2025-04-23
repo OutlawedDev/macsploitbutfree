@@ -5,7 +5,7 @@ main() {
     echo -e "Welcome to the MacSploit Experience!"
     echo -e "Install Script Version 2.6"
 
-    # Skip the license key checking
+    # Skip HWID checking and License key prompt
     echo -e "License check skipped. Proceeding with installation..."
 
     echo -e "Downloading Latest Roblox..."
